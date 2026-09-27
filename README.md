@@ -1,6 +1,6 @@
 <!-- LOGO: put the file in figures/ and keep the name below -->
 <p align="center">
-  <img src="figures/ge_healthcare_logo.png" alt="GE HealthCare" width="200">
+  <img src="figures/uda_architecture.png" alt="UDA architecture: shared feature extractor, adversarial and representation heads, redundancy reduction, task head" width="100%">
 </p>
 
 # Foundation Models & Unsupervised Domain Adaptation for 2D Probe Pose Estimation
